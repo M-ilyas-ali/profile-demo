@@ -1,0 +1,15 @@
+{
+  "typescript.tsdk": "node_modules\\typescript\\lib",
+  "typescript.enablePromptUseWorkspaceTsdk": true,
+  "cSpell.words": [
+    "earthlights",
+    "elyas",
+    "Ilyas",
+    "myref",
+    "panavers",
+    "panaverse",
+    "romb",
+    "setdata",
+    "tailwindcss"
+  ]
+}
